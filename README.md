@@ -1,3 +1,6 @@
+# 👋 Hi, I'm Siddarth Kumar (1xMaverick)
+###  A passionate Hacker from India
+
 # 💫 About Me:
 🛠️ Currently working on<br>→ Recon automation scripts & security tooling<br><br>🤝 Looking to collaborate on<br>→ Cybersecurity, pentesting & CTFs<br><br>🧠 Currently learning<br>→ Web security, recon, Python & SOC basics<br><br>💬 Ask me about<br>→ Recon, bug hunting, cybersecurity roadmap
 
