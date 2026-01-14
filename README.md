@@ -6,9 +6,36 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/siddarth07/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddarthkumar8390s@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddarth07/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddarthkumar023@gmail.com)
 
-# 💻 Tech Stack:
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=plastic&logo=splunk&logoColor=white)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💻 Technical Skills
+
+### 🔐 Penetration Testing
+![Network Penetration Testing](https://img.shields.io/badge/Network%20Penetration%20Testing-%23000000.svg?style=plastic&logo=hackthebox&logoColor=green)
+![Web Penetration Testing](https://img.shields.io/badge/Web%20Penetration%20Testing-%23000000.svg?style=plastic&logo=burpsuite&logoColor=orange)
+
+### 🧠 Programming
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+
+### 🧰 Tools
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6C37?style=plastic&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-%23004A7F.svg?style=plastic&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-%23000000.svg?style=plastic&logo=metasploit&logoColor=blue)
+![Nuclei](https://img.shields.io/badge/Nuclei-%23000000.svg?style=plastic&logo=go&logoColor=white)
+![Amass](https://img.shields.io/badge/Amass-%23000000.svg?style=plastic&logo=owasp&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-%23000000.svg?style=plastic&logo=sqlite&logoColor=white)
+![Dirsearch](https://img.shields.io/badge/Dirsearch-%23000000.svg?style=plastic&logo=linux&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-%23000000.svg?style=plastic&logo=amd&logoColor=red)
+![Wireshark](https://img.shields.io/badge/Wireshark-%23167C80.svg?style=plastic&logo=wireshark&logoColor=white)
+
+### 🔗 Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
