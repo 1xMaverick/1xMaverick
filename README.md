@@ -7,7 +7,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddarth07/)  
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23121212.svg?logo=tryhackme&logoColor=red)](https://tryhackme.com/p/maverick001)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23121212.svg?logo=tryhackme&logoColor=red)](https://tryhackme.com/p/maverick001)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddarthkumar023@gmail.com)
 
 ---
